@@ -7,7 +7,7 @@
 
 **Mend Labs LLC** is a software engineering studio focused on building modern apps, platforms, and digital products.
 
-We design and develop clean, scalable software across web and mobile—balancing strong engineering fundamentals with thoughtful UX and long-term maintainability.
+We design and develop clean, scalable software across web, desktop and mobile—balancing strong engineering fundamentals with thoughtful UX and long-term maintainability.
 
 ---
 
