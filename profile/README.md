@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="./banner.svg" alt="Mend Labs LLC" width="100%" />
+  <img src="./banner-light.svg#gh-light-mode-only" alt="Mend Labs LLC" width="100%">
+  <img src="./banner-dark.svg#gh-dark-mode-only" alt="Mend Labs LLC" width="100%">
 </p>
 
 # Mend Labs
